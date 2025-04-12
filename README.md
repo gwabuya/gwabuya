@@ -8,26 +8,30 @@
 
 I am a Consultant Data Scientist with expertise in web scraping & API Integration, Data analysis & visualization. Passionate about data mining, transformation, model development & optimization & AI Automation; and supports organizations with implementing AI solutions and generating data-driven insights.
 
-📌 Skills & Expertise
+### 📌 Skills & Expertise
+
 •	Data Scientist - proficient and experienced in web scraping, data mining, analysis and visualization of structured and unstructured data; and supports organizations with generating data-driven insights. Proficient in BI and Data Analytics (AI/ML) techniques and processes.
 •	IT & Team Management - experienced IT Director, possesses valuable organizational, business and technical skills, lead teams and implements complex applications & infrastructure projects.
 •	Business Systems - functional & technical expertise with implementation experience of ERP & Supply Chain and CRM solutions.
 •	Web scraping & Data Mining – extracts data from databases and websites for real world data from online sources for market research, lead Generation, list Building, prospect lists, price monitoring, data aggregation and many other business use.
 
-What I Offer
+### What I Offer
+
 •	Web Scraping & Data Mining – Automating data extraction from websites, directories, databases, job boards, e-commerce platforms etc., for research, lead generation, competitor analysis, and business intelligence.
 •	Data Analysis & Visualization – Cleaning, structuring, transformation, analysis, visualization and extracting meaningful insights.
 •	Predictive Analytics & AI – Building predictive models and model optimization using classification, regression, and forecasting techniques.
 •	Deep Learning for NLP (Text and Sentiment analysis), Computer Vision (image processing & recognition), Time Series Forecasting analysis, Network Analysis and Recommendation systems.
 •	End-to-End Project Management – Handling projects from concept to deployment.
 
-Tech Stack & Expertise
+### Tech Stack & Expertise
+
 •	Web Scraping & APIs – Selenium, Scrapy, BeautifulSoup, Requests, ScraperAPI, ProxyCrawl
 •	Programming & Databases – Python, SQL, HTML, CSS 
 •	Machine Learning & AI – Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
 •	Business Systems – CRM (Salesforce, Siebel), ERP (JDE), BI & Data Analytics
 
-Key Projects
+### Key Projects
+
 •	Web Scraping & Data Extraction
 o	Automates data extraction from websites, directories, and e-commerce platforms for Real-World Data (RWD) applications from e-commerce sites, real estate platforms, airlines, LinkedIn, and social media for business intelligence and lead generation.
 •	Image Processing & Computer Vision
