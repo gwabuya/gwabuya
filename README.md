@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# George Abuya - Data Scientist (ML/AI), Web Scraping & Data Mining, Gen AI & Automation and AI Generalist)
+## George Abuya - Data Scientist (ML/AI), Web Scraping & Data Mining, Gen AI & Automation and AI Generalist)
 
 https://github.com/gwabuya
 
