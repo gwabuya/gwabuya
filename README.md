@@ -34,7 +34,7 @@ I am a Consultant Data Scientist with expertise in web scraping & API Integratio
   - Automates data extraction from websites, directories, and e-commerce platforms for Real-World Data (RWD) applications from e-commerce sites, real estate platforms, airlines, LinkedIn, and social media for business intelligence and lead generation.
    
 -	__Image Processing & Computer Vision__
-   -	Developed CNN models for plant classification, road marking, and house number recognition.
+    -	Developed CNN models for plant classification, road marking, and house number recognition.
 
 -	__Predictive Analytics & AI Modeling__ 
     - Built predictive analytics and visualization of Customer Segmentation & Churn Prediction using K-Means, Neural Networks to enhance marketing & retention.
