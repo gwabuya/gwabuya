@@ -16,25 +16,16 @@ I am a Consultant Data Scientist with expertise in web scraping & API Integratio
 -	__Web scraping & Data Mining__ – Extracts data from databases and websites for real world data from online sources for market research, lead Generation, list Building, prospect lists, price monitoring, data aggregation and many other business use.
 
 ### What I Offer
-
 -	__Web Scraping & Data Mining__ – Automating data extraction from websites, directories, databases, job boards, e-commerce platforms etc., for research, lead generation, competitor analysis, and business intelligence.
-
 -	__Data Analysis & Visualization__ – Cleaning, structuring, transformation, analysis, visualization and extracting meaningful insights.
-
 -	__Predictive Analytics & AI__ – Building predictive models and model optimization using classification, regression, and forecasting techniques.
-
 -	__Deep Learning for NLP__ (Text and Sentiment analysis), Computer Vision (image processing & recognition), Time Series Forecasting analysis, Network Analysis and Recommendation systems.
-
 -	__End-to-End Project Management__ – Handling projects from concept to deployment.
 
 ### Tech Stack & Expertise
-
 -	__Web Scraping & APIs__ – Selenium, Scrapy, BeautifulSoup, Requests, ScraperAPI, ProxyCrawl
-
 -	__Programming & Databases__ – Python, SQL, HTML, CSS 
-
 -	__Machine Learning & AI__ – Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
-
 -	__Business Systems__ – CRM (Salesforce, Siebel), ERP (JDE), BI & Data Analytics
 
 ### Key Projects
