@@ -11,8 +11,11 @@ I am a Consultant Data Scientist with expertise in web scraping & API Integratio
 ### 📌 Skills & Expertise
 
 •	Data Scientist - proficient and experienced in web scraping, data mining, analysis and visualization of structured and unstructured data; and supports organizations with generating data-driven insights. Proficient in BI and Data Analytics (AI/ML) techniques and processes.
+
 •	IT & Team Management - experienced IT Director, possesses valuable organizational, business and technical skills, lead teams and implements complex applications & infrastructure projects.
+
 •	Business Systems - functional & technical expertise with implementation experience of ERP & Supply Chain and CRM solutions.
+
 •	Web scraping & Data Mining – extracts data from databases and websites for real world data from online sources for market research, lead Generation, list Building, prospect lists, price monitoring, data aggregation and many other business use.
 
 ### What I Offer
