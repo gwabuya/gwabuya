@@ -23,7 +23,7 @@ I am a Consultant Data Scientist with expertise in web scraping & API Integratio
 -	__Machine Learning & AI__ – Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
 -	__Business Systems__ – CRM (Salesforce, Siebel), ERP (JDE), BI & Data Analytics
 
-### 🤖 Key Projects
+### 🤖 Summary Projects
 - __Web Scraping & Data Extraction__
   - Automates data extraction from websites, directories, and e-commerce platforms for Real-World Data (RWD) applications from e-commerce sites, real estate platforms, airlines, LinkedIn, and social media for business intelligence and lead generation.
 -	__Image Processing & Computer Vision__
