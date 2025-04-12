@@ -4,7 +4,8 @@
 
 🚀 Data Scientist (Model development & optimization) | Web Scraping, Data Mining & API Integration | NLP & Gen AI (LLMs) | Computer Vision | ML Ops
 
-###🔹 About Me
+### 🔹 About Me
+
 I am a Consultant Data Scientist with expertise in web scraping & API Integration, Data analysis & visualization. Passionate about data mining, transformation, model development & optimization & AI Automation; and supports organizations with implementing AI solutions and generating data-driven insights.
 
 📌 Skills & Expertise
