@@ -38,6 +38,7 @@ I am a Consultant Data Scientist with expertise in web scraping & API Integratio
   - Partnered with a startup to develop an AI-powered solution improving accessibility and inclusion in digital content across websites and social media platforms.
   - Prototyped and deployed an AI-based text/video-to-voice and language translation solution using NLP and deep learning models. The solution, ‘Read It To Me,’ is in the rollout phase across Sub-Saharan Africa, enabling real-time multilingual accessibility and enhancing user engagement.
 
-## Contacts 👋
+## Contacts 👋🏽
 Email : george.abuya@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/george-abuya-4855a226/
