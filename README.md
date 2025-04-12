@@ -43,20 +43,20 @@ I am a Consultant Data Scientist with expertise in web scraping & API Integratio
 ### Key Projects
 
 - __Web Scraping & Data Extraction__
- - Automates data extraction from websites, directories, and e-commerce platforms for Real-World Data (RWD) applications from e-commerce sites, real estate platforms, airlines, LinkedIn, and social media for business intelligence and lead generation.
+  - Automates data extraction from websites, directories, and e-commerce platforms for Real-World Data (RWD) applications from e-commerce sites, real estate platforms, airlines, LinkedIn, and social media for business intelligence and lead generation.
    
 -	__Image Processing & Computer Vision__
- -	Developed CNN models for plant classification, road marking, and house number recognition.
+  -	Developed CNN models for plant classification, road marking, and house number recognition.
 
 -	__Predictive Analytics & AI Modeling__ 
-   - Built predictive analytics and visualization of Customer Segmentation & Churn Prediction using K-Means, Neural Networks to enhance marketing & retention.
-   - Loan Default & Fraud Detection – Built models with Random Forest, SVM, XGBoost for risk mitigation.
-   - Customer Lifetime Value (CLV) – Estimated profitability using KNN & Quantile Regression models.
+    - Built predictive analytics and visualization of Customer Segmentation & Churn Prediction using K-Means, Neural Networks to enhance marketing & retention.
+    - Loan Default & Fraud Detection – Built models with Random Forest, SVM, XGBoost for risk mitigation.
+    - Customer Lifetime Value (CLV) – Estimated profitability using KNN & Quantile Regression models.
 
 - __NLP & Sentiment Analysis__
    - Analyzed customer sentiment from airline tweets, Amazon reviews, and service-related feedback using NLP techniques.
 
 - __AI-Based Text/Video to Voice & Language Translation Solution__
- - Partnered with a startup to develop an AI-powered solution improving accessibility and inclusion in digital content across websites and social media platforms.
- - Prototyped and deployed an AI-based text/video-to-voice and language translation solution using NLP and deep learning models. The solution, ‘Read It To Me,’ is in the rollout phase across Sub-Saharan Africa, enabling real-time multilingual accessibility and enhancing user engagement.
+  - Partnered with a startup to develop an AI-powered solution improving accessibility and inclusion in digital content across websites and social media platforms.
+  - Prototyped and deployed an AI-based text/video-to-voice and language translation solution using NLP and deep learning models. The solution, ‘Read It To Me,’ is in the rollout phase across Sub-Saharan Africa, enabling real-time multilingual accessibility and enhancing user engagement.
 
